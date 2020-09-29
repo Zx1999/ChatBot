@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatRobot</string>
+    <string name="btnsend">发送</string>
+</resources>
